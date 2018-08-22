@@ -1,0 +1,5 @@
+Junior/Facche
+
+Title : Hoaxes and Hexes
+
+Given an Image maymays.jpg, check using strings and in the bottom you will get the flag d4rk{1m_d0wn_h3r3}c0de

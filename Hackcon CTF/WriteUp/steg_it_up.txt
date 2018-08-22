@@ -1,0 +1,7 @@
+Steganography
+
+Title : Steg It Up
+
+Given a picture with some unknown alphabet, i used StegSolve and if you check itu next to right or left you will get a barcode and scan it
+
+The flag is : d4rk{s000_m4ny_0f_7h3m_l0l_1_h4v33_t0_m4k333_th3_fl4g_l0ng_f0r_n0000_r3450n_1m40}c0de
